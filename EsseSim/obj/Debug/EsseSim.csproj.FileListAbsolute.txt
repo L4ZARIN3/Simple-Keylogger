@@ -1,0 +1,8 @@
+C:\Users\home\source\repos\EsseSim\EsseSim\bin\Debug\EsseSim.exe.config
+C:\Users\home\source\repos\EsseSim\EsseSim\bin\Debug\EsseSim.exe
+C:\Users\home\source\repos\EsseSim\EsseSim\bin\Debug\EsseSim.pdb
+C:\Users\home\source\repos\EsseSim\EsseSim\obj\Debug\EsseSim.csproj.AssemblyReference.cache
+C:\Users\home\source\repos\EsseSim\EsseSim\obj\Debug\EsseSim.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\source\repos\EsseSim\EsseSim\obj\Debug\EsseSim.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\EsseSim\EsseSim\obj\Debug\EsseSim.exe
+C:\Users\home\source\repos\EsseSim\EsseSim\obj\Debug\EsseSim.pdb
